@@ -1,4 +1,4 @@
-## Hi there 👋
+## hello! and welcome to our github profile, katakana studios is a voluntary incorporation that is made up of freindly volunteers
 
 <!--
 **katakana-studios/katakana-studios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
